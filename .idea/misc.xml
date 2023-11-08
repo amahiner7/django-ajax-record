@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Workstation: django-ajax-record" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Workstation: django-ajax-record" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="django-ajax-record" project-jdk-type="Python SDK" />
 </project>
